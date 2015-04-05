@@ -1,2 +1,0 @@
-# fizzbuzz
-Classic fizzbuzz project 
